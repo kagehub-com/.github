@@ -5,6 +5,6 @@
   </h2>
   ⭐
   <h5>
-    That's why, at <b>KageLab</b>, we build things to ensure everything goes as planned.
+    That's why, at <b>KageHub.com</b>, we build things to ensure everything goes as planned.
   </h5>
 </div>
